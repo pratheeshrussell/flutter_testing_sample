@@ -1,6 +1,6 @@
 # Writing tests in flutter
 
-A sample project demonstrating the various tests in flutter  
+A simple project demonstrating the various tests in flutter  
 
 ## To run tests use the following commands
 
